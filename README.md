@@ -11,9 +11,13 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1S68Qv18giurWotPcqPjZ5Pz3KV9wScgZ/view?usp=drive_link](https://drive.google.com/file/d/1S68Qv18giurWotPcqPjZ5Pz3KV9wScgZ/view?usp=drive_link)
 
+- ⚡ Fun fact **I think I'm so funny!😉**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/sai dinesh bolloju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai dinesh bolloju" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/21h55a6203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="21h55a6203" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/21h55aj6ws/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/21h55aj6ws/practice" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
