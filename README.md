@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saidinesh</h1>
 <h3 align="center">A passionate frontend developer from India </h3>
 
-- 🌱 I’m currently learning **Java,Python,ReactJS,JavaScript,HTML,CSS,BOOTSTRAP**
+- 🌱 I’m currently. learning **Java,Python,ReactJS,JavaScript,HTML,CSS,BOOTSTRAP**
 
 - 👨‍💻 All of my projects are available at [https://saidinesh012.github.io/portfolio/](https://saidinesh012.github.io/portfolio/)
 
